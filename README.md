@@ -40,17 +40,17 @@
 
 ![lm 5](https://user-images.githubusercontent.com/112899813/211096599-4bd5eca0-a567-495c-9d0c-6cbbdb123f66.png)
 
-- The above image would be the t-test for lot 1
+- **The above image would be the t-test for lot 1**
 
 
 ![lm 6](https://user-images.githubusercontent.com/112899813/211096939-90f6e2f9-5e86-4d11-9d91-eab5a4088e3d.png)
 
-- The above image would be the t-test for lot 2
+- **The above image would be the t-test for lot 2**
 
 
 ![lm 7](https://user-images.githubusercontent.com/112899813/211097045-c1e22e28-0d88-44ac-8e88-9d5bf1d8c16b.png)
 
-- The above image would be the t-test for lot 3
+- **The above image would be the t-test for lot 3**
 
 
 
