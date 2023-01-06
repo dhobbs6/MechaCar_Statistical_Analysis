@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Objective
-- 
+- This analysis requires erforming multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes, collecting summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, running t-tests to determine if the manufacturing lots are statistically different from the mean population, and finally designing a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. This is all to aid Jeremy and the data analytics team in reviewing the production data for insights that may help the manufacturing team solve their production troubles that are blocking the manufacturing team’s progress.
 
 # Linear Regression to Predict MPG
 ## Summary
