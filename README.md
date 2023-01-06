@@ -57,13 +57,14 @@
 
 # Study Design: MechaCar vs Competition 
 **Write a short description of a statistical study that can quantify how the MechaCar performs against the competition**
--What metric or metrics are you going to test?
 
--What is the null hypothesis or alternative hypothesis?
+-**What metric or metrics are you going to test?
 
--What statistical test would you use to test the hypothesis? And why?
+-**What is the null hypothesis or alternative hypothesis?
 
--What data is needed to run the statistical test?
+-**What statistical test would you use to test the hypothesis? And why?
+
+-**What data is needed to run the statistical test?
 
 
 
