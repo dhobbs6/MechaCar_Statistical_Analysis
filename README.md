@@ -12,6 +12,7 @@
 
 ## Summary Statistics & Suspension Coils
 
+
 ![lm 2](https://user-images.githubusercontent.com/112899813/211093017-a9638f12-b739-4bd7-96b2-cb34b6975b3b.png)
 
 The above image shows the summary statistics for the total_summary dataframe 
