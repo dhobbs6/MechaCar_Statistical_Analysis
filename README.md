@@ -52,6 +52,19 @@
 
 - **The above image would be the t-test for lot 3**
 
+## Summary 
+- For lots 1 & 2, when looking at the data, we can determine that both lots are not statistically significant given that both lots have a p-value above our 0.05 threshold. Both lot 1 & 2 have a measn of 1500, meaning that they falls in the 95% confidence interval. On the other hand, lot 3 has a p-value of 0.04 which would prove statistically significant with respect to our 0.05 threshold. Lot 3 also has a mean of 1496. 
+
+# Study Design: MechaCar vs Competition 
+**Write a short description of a statistical study that can quantify how the MechaCar performs against the competition**
+-What metric or metrics are you going to test?
+
+-What is the null hypothesis or alternative hypothesis?
+
+-What statistical test would you use to test the hypothesis? And why?
+
+-What data is needed to run the statistical test?
+
 
 
 
